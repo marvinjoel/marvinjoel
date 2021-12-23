@@ -2,7 +2,7 @@
 ![Header](https://user-images.githubusercontent.com/22551090/147283056-e9a41979-af7e-4d89-ae2a-895a55f591da.jpg)
 
 
-<br><br><br>
+<br><br>
 <br><br>
 
 ## 🎯 Some technologies I use:
