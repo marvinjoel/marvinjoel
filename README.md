@@ -28,15 +28,11 @@
 <br>
 
 
-
 ## 📈 Some of my stats are: 
 ![Stats](https://github-readme-stats.vercel.app/api?username=marvinjoel&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 
 # Connect with me<img src="https://user-images.githubusercontent.com/22551090/147277305-04b4ffac-883d-4eac-9953-8f275cce3381.gif" height="32px">
-
-
-
 
 
 
@@ -46,3 +42,6 @@
 <code><a href="https://twitter.com/Marvin72691824"  target="_blank"><img height="20" src="https://user-images.githubusercontent.com/22551090/147278132-5f7b49a7-b646-48b0-8828-6e03c44fb3f6.png"> Twitter</a></code>
 <code><a href="https://www.instagram.com/invites/contact/?i=t7x2fwxe54hm&utm_content=ekkiq85"  target="_blank"><img height="20" src="https://user-images.githubusercontent.com/22551090/147278306-1f3001a5-9b3c-49b9-897b-61ce5f162625.png"> Instagram</a></code>
 <code><a href="https://www.linkedin.com/in/marvin-joel-achas-vilca-6b37481b8/"  target="_blank"><img height="20" src="https://user-images.githubusercontent.com/22551090/147283578-2209278f-64c4-40be-a6de-3fb80121ca26.png"> LinkedIn</a></code>
+
+## Contributions in the last year:
+![snake gif](https://github.com/marvinjoel/marvinjoel/blob/output/github-contribution-grid-snake.gif)
