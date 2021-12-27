@@ -44,4 +44,4 @@
 <code><a href="https://www.linkedin.com/in/marvin-joel-achas-vilca-6b37481b8/"  target="_blank"><img height="20" src="https://user-images.githubusercontent.com/22551090/147283578-2209278f-64c4-40be-a6de-3fb80121ca26.png"> LinkedIn</a></code>
 
 ## Contributions in the last year:
-![snake gif](https://github.com/marvinjoel/marvinjoel/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/marvinjoel/marvinjoel/blob/output/github-contribution-grid-snake.svg)
