@@ -36,12 +36,13 @@
 
 
 
+<code><a href="https://www.linkedin.com/in/marvin-joel/"  target="_blank"><img height="20" src="https://user-images.githubusercontent.com/22551090/147283578-2209278f-64c4-40be-a6de-3fb80121ca26.png"> LinkedIn</a></code>
+<code><a href="mailto:marvinj.isd@gmail.com"  target="_blank"><img alt="Email" height="20" src="https://user-images.githubusercontent.com/22551090/147278034-a6ef1289-feb4-4f96-9d02-7aa7a7440d2f.png"> Gmail</a></code>
 <code><a href="https://wa.me/+51993620749" target="_blank"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/640px-WhatsApp.svg.png"> Whatsapp</a></code>
 <code><a href="https://t.me/MarckJoe"  target="_blank"><img height="20" src="https://www.seekpng.com/png/full/945-9450674_web-telegram-icon-telegram-png.png"> Telegram</a></code>
-<code><a href="mailto:marvinj.isd@gmail.com"  target="_blank"><img alt="Email" height="20" src="https://user-images.githubusercontent.com/22551090/147278034-a6ef1289-feb4-4f96-9d02-7aa7a7440d2f.png"> Gmail</a></code>
 <code><a href="https://twitter.com/Marvin72691824"  target="_blank"><img height="20" src="https://user-images.githubusercontent.com/22551090/147278132-5f7b49a7-b646-48b0-8828-6e03c44fb3f6.png"> Twitter</a></code>
 <code><a href="https://www.instagram.com/invites/contact/?i=t7x2fwxe54hm&utm_content=ekkiq85"  target="_blank"><img height="20" src="https://user-images.githubusercontent.com/22551090/147278306-1f3001a5-9b3c-49b9-897b-61ce5f162625.png"> Instagram</a></code>
-<code><a href="https://www.linkedin.com/in/marvin-joel/"  target="_blank"><img height="20" src="https://user-images.githubusercontent.com/22551090/147283578-2209278f-64c4-40be-a6de-3fb80121ca26.png"> LinkedIn</a></code>
+
 
 <br>
 
