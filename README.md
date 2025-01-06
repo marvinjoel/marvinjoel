@@ -69,4 +69,4 @@
 <br>
 
 ## Contributions in the last year:
-![snake gif](https://github.com/marvinjoel/marvinjoel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/marvinjoel/marvinjoel/blob/output/github-snake-dark.svg)
